@@ -1,0 +1,2 @@
+model_checkpoint_path: "F:\\AI_plays_ETS2\\ets2_big-car-fast-0.001-alexnetv2-10-epochs-300K-data2.model"
+all_model_checkpoint_paths: "F:\\AI_plays_ETS2\\ets2_big-car-fast-0.001-alexnetv2-10-epochs-300K-data2.model"
